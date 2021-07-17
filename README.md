@@ -6,7 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-##Not Edited Ecommerce Website / Admin Dashboard 
+
+## Not Edited Ecommerce Website / Admin Dashboard / 
 
 ## About Laravel
 
