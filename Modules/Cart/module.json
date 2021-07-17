@@ -1,0 +1,15 @@
+{
+    "name": "Cart",
+    "alias": "سبد خرید",
+    "description": "سبد خرید برای ثبت محصولات خریداری شده ",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Cart\\Providers\\CartServiceProvider"
+    ],
+    "aliases": {
+        "Cart": "Modules\\Cart\\Helpers\\Cart"
+    },
+    "files": [],
+    "requires": []
+}
